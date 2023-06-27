@@ -17,18 +17,18 @@ Here's how to do it:
 
 7. Go to Export>Multiple, and select these settings:
 
-	-Format: WAV
-	-Split  files based on: Labels
-	-Name files: Using Label/Track Name
+-Format: WAV
+-Split  files based on: Labels
+-Name files: Using Label/Track Name
 
-    Make sure these files are exported to a new folder so everything is together.
+Make sure these files are exported to a new folder so everything is together.
 
-8. Go to the "UTAU files" folder and find the "character.txt" file. Edit it, changing "New Utau Voicebank" to the
+9. Go to the "UTAU files" folder and find the "character.txt" file. Edit it, changing "New Utau Voicebank" to the
    name of your model.
 
-9. Go to the folder where the audios were exported to, and insert all files from the "UTAU files" folder.
+10. Go to the folder where the audios were exported to, and insert all files from the "UTAU files" folder.
 
-10. If you want to change the icon for the voicebank, get any image, change the size to 100x100, and open it with
+11. If you want to change the icon for the voicebank, get any image, change the size to 100x100, and open it with
    MSPaint and save over the "icon.bmp" file you copied into your utau's folder.
 
 
