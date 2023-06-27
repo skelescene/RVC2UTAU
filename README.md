@@ -1,5 +1,6 @@
 # RVC2UTAU
 Files for converting an RVC model to UTAU
+Currently supports CV
 
 Here's how to do it:
 
